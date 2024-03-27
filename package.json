@@ -1,5 +1,5 @@
 {
-  "name": "fmf2020-cli-simple-calculator",
+  "name": "fmfz2020-cli-simple-calculator",
   "version": "1.0.0",
   "description": "This is CLI calculator with typescript, node.js and inquirer",
   "main": "index.js",
