@@ -1,0 +1,16 @@
+{
+  "name": "fmf2020-cli-simple-calculator",
+  "version": "1.0.0",
+  "description": "This is CLI calculator with typescript, node.js and inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "farhana",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  }
+}
